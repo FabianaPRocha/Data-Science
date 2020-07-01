@@ -1,0 +1,5 @@
+Projeto Machine Learning
+
+Objetivo: Através dos Dados do Censo detectar se a renda da pessoa excede o valor de 50 mil por ano.
+
+Dataset: O conjunto de dados para este projeto é originário do Repositório de Aprendizado de Máquina da UCI (https://archive.ics.uci.edu/ml/datasets/Adult)
