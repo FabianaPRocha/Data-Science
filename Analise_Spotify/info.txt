@@ -1,0 +1,5 @@
+Músicas do Spotify - SVM
+
+SVM aplicado na classificação de músicas do Spotify.
+O SVM será utilizado para criação de classificador que identifica possíveis músicas que um usuário poderia gostar.
+Iremos treinar o algoritmo, validar o modelo e fazer tunning dos parâmetros do SVM.
